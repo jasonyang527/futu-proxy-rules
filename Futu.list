@@ -1,0 +1,45 @@
+# NAME: Futu
+# DESC: Futu and Moomoo related domain suffix rules
+# SOURCE: Extracted and scoped from blackmatrix7/ios_rule_script issue #1687
+# UPDATED: 2026-06-13
+
+# Futu - core domains
+DOMAIN-SUFFIX,futu.link
+DOMAIN-SUFFIX,futu.com
+DOMAIN-SUFFIX,futu.cn
+DOMAIN-SUFFIX,futunn.com
+
+# Futu - numbered and backup domains
+DOMAIN-SUFFIX,futu0.com
+DOMAIN-SUFFIX,futu1.com
+DOMAIN-SUFFIX,futu2.com
+DOMAIN-SUFFIX,futu3.com
+DOMAIN-SUFFIX,futu4.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futu6.com
+DOMAIN-SUFFIX,futu7.com
+DOMAIN-SUFFIX,futu8.com
+DOMAIN-SUFFIX,futu9.com
+
+# Futu - regional, business, trading, and static assets
+DOMAIN-SUFFIX,futuau.com
+DOMAIN-SUFFIX,futuesop.com
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhk2.com
+DOMAIN-SUFFIX,futuhkapp.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futuinc.com
+DOMAIN-SUFFIX,futuniuniu.com
+DOMAIN-SUFFIX,futubull.cn
+DOMAIN-SUFFIX,futuchain.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,fututrustee.com
+
+# Moomoo - app and account services
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,api.moomoobull.com
+DOMAIN-SUFFIX,moomooequity.com
+DOMAIN-SUFFIX,moomootrustee.com
