@@ -181,8 +181,6 @@ sing-box 跟 Shadowrocket / Surge 不一样，**不能远程引用本仓库的 `
 
 > 为什么拆成两条？sing-box 同一条规则里不同字段是「与」关系，`domain_suffix` 和 `ip_cidr` 写在一起会要求同时满足，永远匹配不上，所以域名和 IP 必须分开写。
 
-本仓库的 [`singbox.json`](https://github.com/jasonyang527/futu-proxy-rules/blob/main/singbox.json) 是一份已经接好富途规则的完整示例配置，可以直接参考。
-
 ## 规则文件格式
 
 规则文件是标准的 rule-set 文件。
